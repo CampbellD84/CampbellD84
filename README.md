@@ -5,6 +5,6 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with learning Bitcoin Development
 - 💬 Ask about hiring me for your company/organization as a Frontend Developer
-- 📫 How to reach me: [Twitter/X](https://www.twitter.com/0xdcampdev), [LinkedIn](https://www.linkedin.com/douglas-campbell-dev), [Bluesky](https://absurdistdev.bsky.social)
+- 📫 How to reach me: [Twitter/X](https://www.twitter.com/0xdcampdev), [LinkedIn](https://www.linkedin.com/in/douglas-campbell-dev), [Bluesky](https://absurdistdev.bsky.social)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a classically trained trombonist who has played various genres of music.  I have toured the Eastern seaboard of the US with several different groups.
