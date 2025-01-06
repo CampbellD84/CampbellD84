@@ -11,14 +11,14 @@
 
 Languages:
 <div style="display:flex; flex-direction: row; justify-content: center;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/solidity/solidity-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vyper/vyper-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/elm/elm-original.svg">
+<img style="width: 75px; height: 75px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img style="width: 75px; height: 75px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+<img style="width: 75px; height: 75px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img style="width: 75px; height: 75px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
+<img style="width: 75px; height: 75px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+<img style="width: 75px; height: 75px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/solidity/solidity-original.svg">
+<img style="width: 75px; height: 75px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vyper/vyper-original.svg">
+<img style="width: 75px; height: 75px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/elm/elm-original.svg">
 </div>
 
 Libraries/Frameworks:
