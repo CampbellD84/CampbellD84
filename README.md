@@ -22,8 +22,10 @@ Languages:
 </div>
 
 Libraries/Frameworks:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nuxtjs/nuxtjs-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/hardhat/hardhat-original.svg">
+<div style="display:flex; flex-direction: row; justify-content: center;">
+<img style="width: 75px; height: 75px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img style="width: 75px; height: 75px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg">
+<img style="width: 75px; height: 75px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+<img style="width: 75px; height: 75px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nuxtjs/nuxtjs-original.svg">
+<img style="width: 75px; height: 75px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/hardhat/hardhat-original.svg">
+</div>
