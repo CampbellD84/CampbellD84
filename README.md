@@ -29,6 +29,13 @@ Libraries/Frameworks:
   <img style="width: 75px; height: 75px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nuxtjs/nuxtjs-original.svg">
   <img style="width: 75px; height: 75px;" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg">
   <img style="width: 75px; height: 75px;" src="https://github.com/devicons/devicon/blob/master/icons/solidjs/solidjs-original.svg">
+</div>
+
+Tools:
+<div style="display:flex; flex-direction: row; justify-content: center;">
   <img style="width: 75px; height: 75px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/hardhat/hardhat-original.svg">
   <img style="width: 75px; height: 75px;" src="https://images.seeklogo.com/logo-png/42/1/ethers-logo-png_seeklogo-426721.png?v=1957182601377694464">
+  <img style="width: 75px; height: 75px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png">
+  <img style="width: 75px; height: 75px;" src="https://github.com/foundry-rs/foundry/blob/master/.github/logo.png?raw=true">
 </div>
+
