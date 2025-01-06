@@ -10,18 +10,18 @@
 - ⚡ Fun fact: I am a classically trained trombonist who has played various genres of music.  I have toured the Eastern seaboard of the US with several different groups.
 
 Languages:
-(https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-(https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)
-(https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-(https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg)
-(https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)
-(https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/solidity/solidity-original.svg)
-(https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vyper/vyper-original.svg)
-(https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/elm/elm-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/solidity/solidity-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vyper/vyper-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/elm/elm-original.svg">
 
 Libraries/Frameworks:
-(https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
-(https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg)
-(https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg)
-(https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nuxtjs/nuxtjs-original.svg)
-(https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/hardhat/hardhat-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nuxtjs/nuxtjs-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/hardhat/hardhat-original.svg">
