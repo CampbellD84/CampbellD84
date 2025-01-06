@@ -10,6 +10,7 @@
 - ⚡ Fun fact: I am a classically trained trombonist who has played various genres of music.  I have toured the Eastern seaboard of the US with several different groups.
 
 Languages:
+<div style="display:flex; flex-direction: row; justify-content: center;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -18,6 +19,7 @@ Languages:
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/solidity/solidity-original.svg">
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vyper/vyper-original.svg">
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/elm/elm-original.svg">
+</div>
 
 Libraries/Frameworks:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
